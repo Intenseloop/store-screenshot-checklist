@@ -1,0 +1,16 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "Store Screenshot Checklist",
+  "description": "A short checklist for App Store and Google Play screenshots: the sizes each store accepts, file rules, and ways to make the images.",
+  "sidebar": [
+    {
+      "group": "Checklist",
+      "pages": [
+        { "title": "Overview", "href": "/" },
+        { "title": "App Store", "href": "/app-store" },
+        { "title": "Google Play", "href": "/google-play" },
+        { "title": "Making the images", "href": "/making-the-images" }
+      ]
+    }
+  ]
+}
